@@ -27,4 +27,6 @@ var monthlyPayment = function(){
 	$('#answer').html('Your monthly payment is: $' + Math.round(monthlyPayment));
 	//print message to "answer" box
 	
+	number.isNaN('testValue')
 }
+
